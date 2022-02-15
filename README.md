@@ -10,7 +10,7 @@
 <ul>
 {% for pdf in kt_2021_files %}
   <li>
-   <a href="{{ pdf.path }}">{{ pdf.basename }}</a>
+   <a href="{{ page.url }}{{ pdf.path }}">{{ pdf.basename }}</a>
   </li>
 {% endfor %}
 </ul>
