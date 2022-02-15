@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+defaults:
+  - scope:
+      path: "kepviselo-testuleti-jegyzokonyvek-2021"
+    values:
+      kepviselo-testuleti-jegyzokonyvek-2021: true
