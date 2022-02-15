@@ -7,3 +7,5 @@ defaults:
       path: "kepviselo-testuleti-jegyzokonyvek-2021"
     values:
       kepviselo-testuleti-jegyzokonyvek-2021: true
+
+basepath: /documents
