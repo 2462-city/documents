@@ -7,5 +7,9 @@ defaults:
       path: "kepviselo-testuleti-jegyzokonyvek-2021"
     values:
       kepviselo-testuleti-jegyzokonyvek-2021: true
+  - scope:
+      path: "gazdasagi-bizottsag-jegyzokonyvek"
+    values:
+      gazdasagi-bizottsag-jegyzokonyvek: true
 
 basepath: /documents
