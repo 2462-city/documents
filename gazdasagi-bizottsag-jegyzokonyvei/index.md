@@ -2,7 +2,7 @@
 title: Gazdasági bizottság jegyzőkönyvei
 ---
 
-{% assign files = site.static_files | where: "gazdasagi-bizottsag-jegyzokonyvek", true %}
+{% assign files = site.static_files | where: "gazdasagi-bizottsag-jegyzokonyvei", true %}
 <ul>
 {% for file in files %}
   <li>
