@@ -11,5 +11,9 @@ defaults:
       path: "gazdasagi-bizottsag-jegyzokonyvei"
     values:
       gazdasagi-bizottsag-jegyzokonyvei: true
+  - scope:
+      path: "human-bizottsag-jegyzokonyvei"
+    values:
+      human-bizottsag-jegyzokonyvei: true
 
 basepath: /documents
